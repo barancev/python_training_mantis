@@ -3,7 +3,7 @@
     "baseUrl": "http://localhost/mantisbt-1.2.19/"
   },
   "webadmin": {
-    "username": "admin",
-    "password": "secret"
+    "username": "administrator",
+    "password": "root"
   }
 }
